@@ -4,3 +4,5 @@ We have two preprocessing methods. For preprocessing method #1, we replace the u
 
 # What classifier to use
 We have 6 classifiers in the project. The default classifier is xgboost. If you would like to see the behavior of the other classifiers, you can uncomment the corresponding classifier in "name" and "classifiers" lists. 
+
+Note: It takes approximately 50 minutes to run all the classifiers at the same time. 
